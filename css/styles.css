@@ -1,3 +1,9 @@
+.verticalAlign{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
 .cabecera{
 	width: 100%;
 }
@@ -5,6 +11,13 @@
 #navegador{
 	height: 100px;
 	padding: 10px;
+}
+
+#navegador h1{
+	position: relative;
+	bottom: 50px;
+	display: inline-block;
+	margin-left: 80px;
 }
 
 .redes{
