@@ -8,6 +8,10 @@
 	width: 100%;
 }
 
+.cabecera>img{
+	width: 100%;
+}
+
 #navegador{
 	height: 100px;
 	padding: 10px;
@@ -27,4 +31,12 @@
 .redes img{
 	width: 40px;
 	height: 40px;
+}
+
+.contenido img{
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	margin-left: 100px;
+	margin-top: 60px;
 }
