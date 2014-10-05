@@ -40,3 +40,39 @@
 	margin-left: 100px;
 	margin-top: 60px;
 }
+
+.pie{
+	width: 100%;
+	height: 400px;
+	background-color: black;
+	margin-top: 60px;
+}
+
+.pie h3{
+	margin-top: 50px;
+	margin-left: 18%;
+	width: 220px;
+	color: white;
+	display: inline-block;
+}
+
+.listaResumen{
+	width: 220px;
+	height: 180px;
+	display: inline-block;
+	margin-left: 170px;
+	color: white;
+}
+
+.listaResumen ul{
+	list-style: none;
+}
+
+.copyright{
+	display: block;
+	margin: 50px auto;
+	color: white;
+	width: 300px;
+	position: relative;
+	top: 100px;
+}
