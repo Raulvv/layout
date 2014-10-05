@@ -1,0 +1,17 @@
+.cabecera{
+	width: 100%;
+}
+
+#navegador{
+	height: 100px;
+	padding: 10px;
+}
+
+.redes{
+	float: right;
+}
+
+.redes img{
+	width: 40px;
+	height: 40px;
+}
